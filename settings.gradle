@@ -1,0 +1,2 @@
+rootProject.name = "SpashScreenDemo"
+include ':app'
